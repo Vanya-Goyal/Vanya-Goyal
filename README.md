@@ -7,8 +7,8 @@
 I build reliable backend systems and turn ideas into useful products.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vanya-goyal)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanyagoyal09@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Vanya-Goyal&label=Profile%20views&color=2563EB&style=flat-square)
 
@@ -65,8 +65,8 @@ open_to: Open-source collaboration and backend opportunities
 
 | Project | What it does | Built with |
 |:--|:--|:--|
-| [Project One](YOUR_PROJECT_1_URL) | One clear sentence describing the problem and your solution. | `Python` `Django` `PostgreSQL` |
-| [Project Two](YOUR_PROJECT_2_URL) | One clear sentence highlighting its most useful feature. | `Node.js` `Express` `MongoDB` |
+| [Project One](https://vanya-goyal-hrms-frontendapp-cojmvh.streamlit.app/) | HR Management System | `Python` `FastAPI` `Streamlit` |
+| [Project Two](https://aeroshield-x-pm.streamlit.app/) | AeroSheild-X-PM Health Monitoring System  | `Python` `SHAP` `Streamlit` |
 | [Project Three](YOUR_PROJECT_3_URL) | One clear sentence showing its real-world impact. | `React` `REST API` |
 
 ## GitHub activity
