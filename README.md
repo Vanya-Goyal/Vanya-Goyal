@@ -36,9 +36,9 @@ open_to: Open-source collaboration and backend opportunities
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -67,7 +67,7 @@ open_to: Open-source collaboration and backend opportunities
 |:--|:--|:--|
 | [Project One](https://vanya-goyal-hrms-frontendapp-cojmvh.streamlit.app/) | HR Management System | `Python` `FastAPI` `Streamlit` |
 | [Project Two](https://aeroshield-x-pm.streamlit.app/) | AeroSheild-X-PM Health Monitoring System  | `Python` `SHAP` `Streamlit` |
-| [Project Three](YOUR_PROJECT_3_URL) | One clear sentence showing its real-world impact. | `React` `REST API` |
+| [Project Three](YOUR_PROJECT_3_URL) | Mutli- Source Payment Reconciliation Platform | `Java` `SpringBoot` `MERN` |
 
 ## GitHub activity
 
