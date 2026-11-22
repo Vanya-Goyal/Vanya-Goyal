@@ -21,7 +21,7 @@ name: Vanya Goyal
 location: India
 role: Backend Developer
 focus: Scalable APIs, databases, and clean architecture
-currently_learning: System Design and Cloud Technologies
+currently_learning: Advance DSA and Backend concepts
 open_to: Open-source collaboration and backend opportunities
 ```
 
