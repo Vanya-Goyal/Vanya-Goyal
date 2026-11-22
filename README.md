@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=210&section=header&text=Vanya%20Goyal&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=57&animation=fadeIn" width="100%" alt="Vanya Goyal banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1D4ED8&height=210&section=header&text=Vanya%20Goyal&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=57&animation=fadeIn" width="100%" alt="Vanya Goyal banner" />
 
 ### Hi there, I'm Vanya 👋
 
