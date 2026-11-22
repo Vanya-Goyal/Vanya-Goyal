@@ -26,8 +26,8 @@ open_to: Open-source collaboration and backend opportunities
 ```
 
 - 🔭 Building backend projects that solve real-world problems
-- 🌱 Improving my system-design and cloud-development skills
-- 💬 Ask me about Python, Django, REST APIs, SQL, or backend architecture
+- 🌱 Improving my system-design and DSA
+- 💬 Ask me about Python, REST APIs, SQL, or backend architecture
 - ⚡ I enjoy converting complex problems into simple, maintainable solutions
 
 ## Tech stack
@@ -44,7 +44,7 @@ open_to: Open-source collaboration and backend opportunities
 
 **Backend & Web**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI]
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
