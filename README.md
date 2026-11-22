@@ -61,13 +61,6 @@ open_to: Open-source collaboration and backend opportunities
 
 </div>
 
-## Featured projects
-
-| Project | What it does | Built with |
-|:--|:--|:--|
-| [Project One](https://vanya-goyal-hrms-frontendapp-cojmvh.streamlit.app/) | HR Management System | `Python` `FastAPI` `Streamlit` |
-| [Project Two](https://aeroshield-x-pm.streamlit.app/) | AeroSheild-X-PM Health Monitoring System  | `Python` `SHAP` `Streamlit` |
-| [Project Three](YOUR_PROJECT_3_URL) | Mutli- Source Payment Reconciliation Platform | `Java` `SpringBoot` `MERN` |
 
 ## GitHub activity
 
